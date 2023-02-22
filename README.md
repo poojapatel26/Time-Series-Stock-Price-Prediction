@@ -4,11 +4,11 @@ This is a Data Science project with Visualization and Analyisis on Stock Trading
 
 ### Table of contents
 
-1. [Installation](#installation)
-2. [Project Motivation](#project-motivation)
-3. [File Description](#file-descriptions)
-4. [Results](#results)
-5. [Licensing, Authors, and Acknowledgements](#licensing-authors-acknowledgements)
+1. [Installation](https://github.com/poojapatel26/Time-Series-Stock-Price-Prediction/edit/main/README.md#installation)
+2. [Project Motivation](https://github.com/poojapatel26/Time-Series-Stock-Price-Prediction/edit/main/README.md#project-motivation)
+3. [File Description](https://github.com/poojapatel26/Time-Series-Stock-Price-Prediction/edit/main/README.md#file-descriptions)
+4. [Results](https://github.com/poojapatel26/Time-Series-Stock-Price-Prediction/edit/main/README.md#results)
+5. [Licensing, Authors, and Acknowledgements](https://github.com/poojapatel26/Time-Series-Stock-Price-Prediction/edit/main/README.md#licensing-authors-acknowledgements)
 
 
 ## Installation
@@ -27,7 +27,7 @@ For this project, I was interestested in using Apple dataset from 2016 to 2022 t
 There is 1 notebooks available here, which gives answers to all the above questions.
 
 ## Results
-The main findings of the code can be found at the post available [here.]() 
+The main findings of the code can be found at the post available [here.](https://medium.com/@poojapatel26/time-series-analysis-of-stock-price-3b79069a12b4)
 
 ## Licensing, Authors, Acknowledgements
-Must give credit to Apple and Yahoo Finance Library for the data. You can find the Licensing for the data and other descriptive information at the Yahoo Finance link available [here.]() Otherwise, feel free to use the code here as you would like!
+Must give credit to Apple and Yahoo Finance Library for the data. You can find the Licensing for the data and other descriptive information at the Yahoo Finance link available [here.](https://pypi.org/project/yfinance/) Otherwise, feel free to use the code here as you would like!
