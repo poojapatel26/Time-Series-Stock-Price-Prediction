@@ -13,7 +13,7 @@ This is a Data Science project with Visualization and Analyisis on Stock Trading
 
 ## Installation
 
-There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. The code should run with no issues using Python versions 3.*.
+There are additional Yahoo Finance and XGBoost Library to run the code here beyond the Anaconda distribution of Python. The code should run with no issues using Python versions 3.*.
 
 ## Project Motivation
 For this project, I was interestested in using Apple dataset from 2016 to 2022 to better understand:
