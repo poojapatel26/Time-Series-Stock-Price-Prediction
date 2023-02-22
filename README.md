@@ -4,11 +4,11 @@ This is a Data Science project with Visualization and Analyisis on Stock Trading
 
 ### Table of contents
 
-1. [Installation](https://github.com/poojapatel26/Time-Series-Stock-Price-Prediction/edit/main/README.md#installation)
-2. [Project Motivation](https://github.com/poojapatel26/Time-Series-Stock-Price-Prediction/edit/main/README.md#project-motivation)
-3. [File Description](https://github.com/poojapatel26/Time-Series-Stock-Price-Prediction/edit/main/README.md#file-descriptions)
-4. [Results](https://github.com/poojapatel26/Time-Series-Stock-Price-Prediction/edit/main/README.md#results)
-5. [Licensing, Authors, and Acknowledgements](https://github.com/poojapatel26/Time-Series-Stock-Price-Prediction/edit/main/README.md#licensing-authors-acknowledgements)
+1. [Installation](https://github.com/poojapatel26/Time-Series-Stock-Price-Prediction/blob/master/README.md#installation)
+2. [Project Motivation](https://github.com/poojapatel26/Time-Series-Stock-Price-Prediction/blob/master/README.md#project-motivation)
+3. [File Description](https://github.com/poojapatel26/Time-Series-Stock-Price-Prediction/blob/master/README.md#file-descriptions)
+4. [Results](https://github.com/poojapatel26/Time-Series-Stock-Price-Prediction/blob/master/README.md#results)
+5. [Licensing, Authors, and Acknowledgements](https://github.com/poojapatel26/Time-Series-Stock-Price-Prediction/blob/master/README.md#licensing-authors-acknowledgements)
 
 
 ## Installation
