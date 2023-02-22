@@ -1,1 +1,2 @@
-# Time-Series-Stock-Price-Prediction
+# Time-Series-Stock-Trading-Analysis
+
