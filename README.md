@@ -27,7 +27,7 @@ For this project, I was interestested in using Apple dataset from 2016 to 2022 t
 There is 1 notebooks available here, which gives answers to all the above questions.
 
 ## Results
-The main findings of the code can be found at the post available [here.](https://medium.com/@poojapatel26/time-series-analysis-of-stock-price-3b79069a12b4)
+The main findings of the code can be found at the post available [here.](https://medium.com/@poojapatel26/time-series-analysis-of-stock-price-8da1533bf79e)
 
 ## Licensing, Authors, Acknowledgements
 Must give credit to Apple and Yahoo Finance Library for the data. You can find the Licensing for the data and other descriptive information at the Yahoo Finance link available [here.](https://pypi.org/project/yfinance/) Otherwise, feel free to use the code here as you would like!
